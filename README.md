@@ -1,15 +1,17 @@
-# 👋 Hi, I'm Atharva Dholakiya  
+# <p align="center">👋 Hi, I'm Atharva</p>  
 
-💻 I'm a Software Engineer passionate about building applications that bring together **mobile, backend, and AI**.  
-I love solving real-world problems, writing clean code, and exploring modern technologies.  
+🎓 I'm a 3rd-year undergraduate student at **LD College of Engineering** , pursuing a **B.Tech in Artificial Intelligence & Machine Learning (AI-ML)** .  
 
-⚡ My focus is on creating scalable backends, intuitive mobile apps, and integrating AI into practical solutions.  
+🔥 I'm passionate about building applications that bring together **mobile, backend, and AI**.  I love solving real-world problems, writing clean code, and exploring modern technologies.  
 
----
+💻 My focus is on creating scalable backends, intuitive mobile apps, and integrating AI into practical solutions.  
 
-## 🚀 Projects  
+
+# <p align="center"> 🚀 Projects</p> 
 
 ### 🔐 [Password Manager (PassEZ)](https://passez-gpv4.onrender.com/) 
+In collaboration with [@keya5406](https://github.com/keya5406) — *I developed the backend while my teammate handled the frontend.*
+
 **Tech Stack:** ReactJS, Spring Boot (Java), MySQL, Docker, GitHub Actions  
 - Secure password storage and management system with a responsive UI.  
 - Implements **Zero Knowledge Architecture**, **AES encryption/decryption**, **PBKDF2 hashing with salt**, and **end-to-end encryption**.  
@@ -18,16 +20,14 @@ I love solving real-world problems, writing clean code, and exploring modern tec
 ### 🍽️ [Calories App](https://calories-web.vercel.app/)  
 **Tech Stack:** Flutter, Spring Boot (Java), MySQL, Gemini AI, Docker, Render  
 - AI-powered nutrition analysis app that integrates with **Gemini AI** for food photo–based nutritional breakdown.  
-- Includes **secure signup/login with JWT**, **REST APIs secured with API keys**, and **cloud deployment on Render**.  
+- Includes **secure signup/login with JWT**, **REST APIs secured with API keys**, and **cloud deployment on Render**.         
 
----
 
-## 🛠️ Tech Stack  
+# <p align="center"> 🛠️ Tech Stack</p>  
 
 ### 🎨 Frontend  
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
 </p>  
 
 ### 🔧 Backend  
@@ -53,9 +53,8 @@ I love solving real-world problems, writing clean code, and exploring modern tec
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </p>  
 
----
 
-## 🌱 Currently Exploring  
+# <p align="center"> 🌱 Currently Exploring </p> 
 - **Flutter animations & UI/UX**   
 - **RAG-based projects** for Q&A on custom data sources   
 

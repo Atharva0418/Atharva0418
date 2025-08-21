@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva Dholakiya  
 
-<!--
-**Atharva0418/Atharva0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Software Engineer passionate about building applications that bring together **mobile, backend, and AI**.  
+I love solving real-world problems, writing clean code, and exploring modern technologies.  
 
-Here are some ideas to get you started:
+⚡ My focus is on creating scalable backends, intuitive mobile apps, and integrating AI into practical solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects  
+
+### 🔐 [Password Manager (PassEZ)](https://passez-gpv4.onrender.com/) 
+**Tech Stack:** ReactJS, Spring Boot (Java), MySQL, Docker, GitHub Actions  
+- Secure password storage and management system with a responsive UI.  
+- Implements **Zero Knowledge Architecture**, **AES encryption/decryption**, **PBKDF2 hashing with salt**, and **end-to-end encryption**.  
+- Features include **secure authentication**, **CRUD for credentials**, **JPA persistence**, and **automated CI/CD pipelines**.  
+
+### 🍽️ [Calories App](https://calories-web.vercel.app/)  
+**Tech Stack:** Flutter, Spring Boot (Java), MySQL, Gemini AI, Docker, Render  
+- AI-powered nutrition analysis app that integrates with **Gemini AI** for food photo–based nutritional breakdown.  
+- Includes **secure signup/login with JWT**, **REST APIs secured with API keys**, and **cloud deployment on Render**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
+</p>  
+
+### 🔧 Backend  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
+</p>  
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+</p>  
+
+### ✅ Testing  
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
+</p>  
+
+### ⚙️ DevOps / Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</p>  
+
+---
+
+## 🌱 Currently Exploring  
+- **Flutter animations & UI/UX**   
+- **RAG-based projects** for Q&A on custom data sources   
+
+✨ Always curious, always building.  

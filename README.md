@@ -1,13 +1,13 @@
-# <p align="center">👋 Hi, I'm Atharva</p>  
+<h1 align="center">👋 Hi, I'm Atharva</h1>
 
 🎓 I'm a 3rd-year undergraduate student at **LD College of Engineering** , pursuing a **B.Tech in Artificial Intelligence & Machine Learning (AI-ML)** .  
 
 🔥 I'm passionate about building applications that bring together **mobile, backend, and AI**.  I love solving real-world problems, writing clean code, and exploring modern technologies.  
 
-💻 My focus is on creating scalable backends, intuitive mobile apps, and integrating AI into practical solutions.  
+💻 My focus is on creating scalable backends, intuitive mobile apps, and integrating AI into practical solutions.
 
-
-# <p align="center"> 🚀 Projects</p> 
+<br>
+<h1 align="center"> 🚀 Projects</h1> 
 
 ### 🔐 [Password Manager (PassEZ)](https://passez-gpv4.onrender.com/) 
 In collaboration with [@keya5406](https://github.com/keya5406) — *I developed the backend while my teammate handled the frontend.*
@@ -22,8 +22,8 @@ In collaboration with [@keya5406](https://github.com/keya5406) — *I developed 
 - AI-powered nutrition analysis app that integrates with **Gemini AI** for food photo–based nutritional breakdown.  
 - Includes **secure signup/login with JWT**, **REST APIs secured with API keys**, and **cloud deployment on Render**.         
 
-
-# <p align="center"> 🛠️ Tech Stack</p>  
+<br>
+<h1 align="center"> 🛠️ Tech Stack</h1>  
 
 ### 🎨 Frontend  
 <p>
@@ -53,8 +53,8 @@ In collaboration with [@keya5406](https://github.com/keya5406) — *I developed 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </p>  
 
-
-# <p align="center"> 🌱 Currently Exploring </p> 
+<br>
+<h1 align="center"> 🌱 Currently Exploring </h1> 
 - **Flutter animations & UI/UX**   
 - **RAG-based projects** for Q&A on custom data sources   
 

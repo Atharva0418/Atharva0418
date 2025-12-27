@@ -55,7 +55,6 @@ In collaboration with [@keya5406](https://github.com/keya5406) — *I developed 
 
 <br>
 <h1 align="center"> 🌱 Currently Exploring </h1> 
-- **Flutter animations & UI/UX**   
-- **RAG-based projects** for Q&A on custom data sources   
 
-✨ Always curious, always building.  
+- **Flutter animations & UI/UX**   
+- **JWT based authentication**  

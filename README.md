@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Atharva</h1>
 
-🎓 I'm a 3rd-year undergraduate student at **LD College of Engineering** , pursuing a **B.Tech in Artificial Intelligence & Machine Learning (AI-ML)** .  
+🎓 I'm a 4th-year undergraduate student at **LD College of Engineering** , pursuing a **B.Tech in Artificial Intelligence & Machine Learning (AI-ML)** .  
 
 🔥 I'm passionate about building applications that bring together **mobile, backend, and AI**.  I love solving real-world problems, writing clean code, and exploring modern technologies.  
 
@@ -9,18 +9,20 @@
 <br>
 <h1 align="center"> 🚀 Projects</h1> 
 
+### 🍽️ [Calories App](https://calories-web.vercel.app/)  
+
+**Tech Stack:** Flutter, Spring Boot (Java), MySQL, Gemini AI, Docker, Render  
+- Developed an AI-powered nutrition analysis app that integrates with Gemini AI to generate nutritional breakdowns from food photos.
+- Features an AI nutrition chatbot for answering food, diet, and nutrition-related queries using Gemini AI.
+- Implemented secure authentication with JWT, Google OAuth 2.0, and X-API-Key–secured REST APIs.
+
 ### 🔐 [Password Manager (PassEZ)](https://passez-gpv4.onrender.com/) 
 In collaboration with [@keya5406](https://github.com/keya5406) — *I developed the backend while my teammate handled the frontend.*
 
 **Tech Stack:** ReactJS, Spring Boot (Java), MySQL, Docker, GitHub Actions  
 - Secure password storage and management system with a responsive UI.  
 - Implements **Zero Knowledge Architecture**, **AES encryption/decryption**, **PBKDF2 hashing with salt**, and **end-to-end encryption**.  
-- Features include **secure authentication**, **CRUD for credentials**, **JPA persistence**, and **automated CI/CD pipelines**.  
-
-### 🍽️ [Calories App](https://calories-web.vercel.app/)  
-**Tech Stack:** Flutter, Spring Boot (Java), MySQL, Gemini AI, Docker, Render  
-- AI-powered nutrition analysis app that integrates with **Gemini AI** for food photo–based nutritional breakdown.  
-- Includes **secure signup/login with JWT**, **REST APIs secured with API keys**, and **cloud deployment on Render**.         
+- Features include **secure authentication**, **CRUD for credentials**, **JPA persistence**, and **automated CI/CD pipelines**.         
 
 <br>
 <h1 align="center"> 🛠️ Tech Stack</h1>  

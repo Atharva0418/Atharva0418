@@ -58,5 +58,4 @@ In collaboration with [@keya5406](https://github.com/keya5406) — *I developed 
 <br>
 <h1 align="center"> 🌱 Currently Exploring </h1> 
 
-- **Flutter animations & UI/UX**   
-- **JWT based authentication**  
+- **React and NextJs**
